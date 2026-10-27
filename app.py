@@ -12,8 +12,8 @@ st.set_page_config(page_title="JobMatcher Pro", layout="centered")
 
 
 # Your Adzuna keys. Keep the quotes around each value.
-APP_ID = 08d09824
-APP_KEY = f1693619c338f53e066710e20b520001
+APP_ID = "08d09824"
+APP_KEY = "f1693619c338f53e066710e20b520001"
 
 
 def preprocess_text(text):
